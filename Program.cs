@@ -10,6 +10,8 @@ class Program
 
         while (true)
         {
+            Console.WriteLine("Testing testing");
+            
             System.Console.Write("Vad vill du lägga i lådan: ");
             string input = Console.ReadLine();
 
